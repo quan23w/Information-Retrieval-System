@@ -64,7 +64,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pattern with the 
     ```
 4. **Create a ```.env``` file with your Google API key**:
     ```
-    GOOGLE_API_KEY=your_api_key_here
+    GOOGLE_API_KEY= "Your_API_Key_Here"
     ```
 
 ## Usage
@@ -74,7 +74,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pattern with the 
     ```
     streamlit run app.py
     ```
-    
+
 2. **Upload Documents**
     - Use the sidebar to select one or more PDF files.
 
